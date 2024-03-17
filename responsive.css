@@ -1,0 +1,444 @@
+@media screen and (max-width: 480px) {
+    #nav_bar {
+        background-color: #0C0C0C;
+        padding-bottom: 10px;
+    }
+    .alec_bar {
+        padding: 5px 0px 5px 10px;
+        background-color: #0C0C0C;
+        border-bottom: 1px solid #ffffffbd;
+    }
+    .alec_list li {
+        text-align: center;
+        text-decoration: none;
+        text-transform: capitalize;
+    }
+    .top_text h1 {
+        font-size: 50px;
+        padding: 70px 0px 0px 0px;
+    }
+    .top_text h2 {
+        font-size: 39px;
+        text-shadow: 0px 0px 1px #ffffff;
+        text-align: right;
+    }
+    .top_text2 {
+        text-align: right;
+    }
+    .top_text2 p {
+        color: #ffffff;
+        font-size: 16px;
+        text-transform: capitalize;
+        line-height: 1.5;
+        letter-spacing: -1px;
+        padding:25px 0px 0px 0px;
+    }
+    .text3 h1 {
+        font-size: 39px;
+        font-family: sans-serif;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #ffffff;
+    }
+    #text_image {
+        background-color: #0C0C0C;
+        background-image: url(asset/images/cheerful-girl.png);
+        background-position: 70% 100%;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-size: 120% 49%;
+    }
+    .navbar-toggler {
+        padding: 0.25rem 0.5rem;
+        font-size: 1.35rem;
+        line-height: 1.2;
+        background-color: white;
+        border: 1px solid transparent;
+        border-radius: 0.25rem;
+        margin: 10px;
+    }
+    .svg-inline--fa {
+        display: var(--fa-display, inline-block);
+        height: 1.0em;
+        overflow: visible;
+        vertical-align: -0.125em;
+    }
+    .alec_list li {
+        padding-left: 0px;
+    }
+    #alce_cv {
+        background-color: #111111;
+        padding: 15px 0px 40px 0px;
+    }
+    .cv_heading {
+        text-align: center;
+        padding: 25px 0px 15px 0px;
+        border: 1px solid #ffffff52;
+        border-radius: 120%;
+    }
+    .cv_heading p {
+        text-transform: capitalize;
+        color: #ffffff;
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 1.4;
+        padding-bottom: 15px;
+    }
+    .cv_heading a {
+        text-decoration: none;
+        text-transform: capitalize;
+        color: #ffff;
+        background-color: #EC583A;
+        padding: 10px;
+        border-radius: 80%;
+    }
+    .alce_table {
+        background-color: #0C0C0C;
+        margin: 0px;
+        padding: 0px;
+    }
+    .alce_mapping img {
+        width: 90%;
+        height: auto;
+        margin: 10px;
+    }
+    .tab_text {
+        padding: 15px 0px;
+        text-align: center;
+    }
+    .tab_text2 {
+        padding: 5px 5px;
+        text-align: center;
+    }
+    .tab_text2 h4 {
+        font-size: 28px;
+        color: #0C0C0C;
+        padding: 0px 5px;
+    }
+    
+element.style {
+}
+@media screen and (max-width: 480px)
+.tab_text2 h4 {
+    font-size: 25px;
+    color: #fffefe;
+    padding: 0px 5px;
+}
+.tab_text2 h4 {
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 16px;
+    color: #ffffff;
+}
+.h4, h4 {
+    font-size: 1.5rem;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+@media screen and (max-width: 480px)
+.tab_text2 {
+    padding: 5px 5px;
+    text-align: center;
+}
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+:host, :root {
+    --fa-style-family-classic: "Font Awesome 6 Free";
+    --fa-font-solid: normal 900 1em / 1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-font-regular: normal 400 1em / 1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-style-family-brands: "Font Awesome 6 Brands";
+    --fa-font-brands: normal 400 1em / 1 "Font Awesome 6 Brands";
+}
+:root {
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+<style>
+:host, :root {
+    --fa-font-solid: normal 900 1em / 1 "Font Awesome 6 Solid";
+    --fa-font-regular: normal 400 1em / 1 "Font Awesome 6 Regular";
+    --fa-font-light: normal 300 1em / 1 "Font Awesome 6 Light";
+    --fa-font-thin: normal 100 1em / 1 "Font Awesome 6 Thin";
+    --fa-font-duotone: normal 900 1em / 1 "Font Awesome 6 Duotone";
+    --fa-font-sharp-solid: normal 900 1em / 1 "Font Awesome 6 Sharp";
+    --fa-font-sharp-regular: normal 400 1em / 1 "Font Awesome 6 Sharp";
+    --fa-font-sharp-light: normal 300 1em / 1 "Font Awesome 6 Sharp";
+    --fa-font-brands: normal 400 1em / 1 "Font Awesome 6 Brands";
+}
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rendered Fonts
+
+    .profolio_text h1 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 23px;
+        font-weight: bold;
+        color: #0c0c0c;
+        text-transform: uppercase;
+        padding: 25px 0px;
+    }
+    .profolio_text h2 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 23px;
+       
+        padding: 25px 0px;
+    }
+    .tabs-control a {
+        position: relative;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 1.8;
+        text-transform: uppercase;
+        text-decoration: none;
+    }
+    .menu-item {
+        flex: 1 0 calc(25% - 20px);
+        max-width: calc(93% - 16px);
+        transition: transform 0.3s ease-in-out;
+        margin: 0 0px 19px 21px;
+    }
+.tab_text3 h2 {
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 28px;
+}
+.tab_text2 p {
+    text-transform: capitalize;
+    color: #707070;
+    padding: 15px 0px;
+    line-height: 1.4;
+    font-weight: 600;
+    font-size: 18px;
+}
+.tab_text3 {
+    display: flex;
+    gap: 5%;
+    margin: 10px 0px 0px 0px;
+}
+.tab_text4 h2 {
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 28px;
+}
+.tabs_info p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    padding: 5px 0px 0px 0px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.custom_tabs {
+    margin: 5px 0px 0px 15px;
+    border-bottom: none;
+}
+.nav-tabs .nav-link {
+    /* margin-bottom: -4px; */
+    /* background-color: #1b1919; */
+    border: 1px solid #0b0b0b;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    border-radius: 40px;
+    padding: 3px;
+    margin: 3px;
+    color: black;
+}
+.active img {
+    width: 300px;
+    margin: -15px 0px 10px 3px;
+}
+.alce_iso_text h1 {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 25px 2px 10px;
+    color: #ffff;
+    position: relative;
+}
+.alce_iso_text h2 {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 25px 10px 10px;
+    color: #ffff;
+}
+.alce_iso_text h1::after {
+    content: '.';
+    position: absolute;
+    top: 25px;
+    right: -14px;
+    display: block;
+    width: 12px;
+    height: 50px;
+    font-weight: bold;
+    color: rgb(255, 254, 254);
+}
+.card {
+    margin-left: 10px;
+}
+.coloring3 {
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding-left: 40px;
+}
+.article_heading h1 {
+    padding: 114px 0px 0px;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #BD4E04;
+}
+.tab_text3 h2 {
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 25px;
+    padding: 3px 5px;
+}
+.article_heading a {
+    padding: 109px 25px 0px;
+    font-size: 19px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+}
+.article_heading a::after {
+    content: '>';
+    position: absolute;
+    top: 109px;
+    right: 20px;
+    display: block;
+    width: 10px;
+    font-weight: bold;
+    color: rgb(255, 254, 254);
+}
+.custom_article h1 a {
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 26px;
+}
+.custom_article_img img {
+    width: 100%;
+    height: auto;
+    margin: 0px;
+}
+.custom_article_link a {
+    color: #fff;
+    background-color: #FB4834;
+    border-radius: 70%;
+    width: 15%;
+    height: 5%;
+    margin: -17px;
+    padding: 13px 0px 15px 20px;
+    text-decoration: none;
+}
+.footer_link h1 {
+    font-size: 24px;
+    color: #ffff;
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
+}
+.footer_link2 h1 {
+    font-size: 23px;
+    color: #ffff;
+    border-bottom: 1px solid;
+    padding: 20px 0px 10px 0px;
+}
+}
